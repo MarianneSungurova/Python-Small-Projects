@@ -1,1 +1,1 @@
-# Python-Yandex-Algorithm-train
+# Python-Game-rock-paper-scissors
